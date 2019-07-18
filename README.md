@@ -1,5 +1,4 @@
-<p>
-<img src="images/logo.png" allign="center">  
+<img src="https://raw.githubusercontent.com/KnowledgePending/Vapor-Docker/master/images/logo.png">  
 
 # Simple Vapor Docker environment
 ## Image details
