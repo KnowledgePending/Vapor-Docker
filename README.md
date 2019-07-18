@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/KnowledgePending/Vapor-Docker/master/images/logo.png">  
+<img src="https://raw.githubusercontent.com/KnowledgePending/Vapor-Docker/master/images/logo.png" width="500">  
 
 # Simple Vapor Docker environment
 ## Image details
