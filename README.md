@@ -23,6 +23,10 @@ docker run -v <host_path>:<container_path> -ti swift_vapor:latest bash
 docker pull bryankp/swift_vapor:latest
 ```
 
+* To run with bash and a shared volume
+```BASH
+docker run -v <host_path>:<container_path> -ti bryankp/swift_vapor:latest bash
+```
 ### Further Details
 * [Swift Official Docker Images](https://hub.docker.com/_/swift)
 * For troubleshooting issues see the [Vapor Docs](https://docs.vapor.codes/)
