@@ -30,3 +30,6 @@ docker run -v <host_path>:<container_path> -ti bryankp/swift_vapor:latest bash
 ### Further Details
 * [Swift Official Docker Images](https://hub.docker.com/_/swift)
 * For troubleshooting issues see the [Vapor Docs](https://docs.vapor.codes/)
+* To use the swift repl while running docker on macos the container needs to be run with the following flag --privileged
+    * Example ```docker run --privileged -v <host_path>:<container_path> -ti bryankp/swift_vapor:latest bash```
+    * see https://github.com/apple/swift-docker/issues/9
