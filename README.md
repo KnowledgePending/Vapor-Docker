@@ -7,7 +7,7 @@ For the Vapor 4 beta see my [Vapor 4 Docker image](https://github.com/KnowledgeP
 
 
 ## Image details
-* Ubuntu 16.04 Bionic
+* Ubuntu 16.04
 * Swift 4.1
 * Vapor 3.1
 
